@@ -4,11 +4,14 @@
 
 
 
-Masukkan username dan password 
+Masukkan username 
 
 <ul type="circle">
-  <li><b>Catatan:</b> 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
+  <li><b>Catatan:</b> Jika lupa email, hubungi <b> Customer Support</b> Thunderlab</li>
 </ul>
 
+Masukkan password
+<li><b>Catatan:</b> Jika lupa password, klik <span class="highlighttext"> Lupa Password</span>. </li>
+    <li>Item 3</li>
+
+I Love <mark> my India.</mark>  
