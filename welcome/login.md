@@ -11,7 +11,5 @@ Masukkan username
 </ul>
 
 Masukkan password
-<li><b>Catatan:</b> Jika lupa password, klik <span class="highlighttext"> Lupa Password</span>. </li>
-    <li>Item 3</li>
-
-I Love <mark> my India.</mark>  
+<ul type="circle">
+<li><b>Catatan:</b> Jika lupa password, 
